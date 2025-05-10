@@ -15,9 +15,8 @@
 - ⚡ Lightweight and fast performance
 - 🌐 Fully browser-based — no backend needed
 
-## 📸Preview Screenshot
-(https://github.com/user-attachments/assets/ceb3cc9a-165d-4b05-bd42-97689ef66370)
-
+## 📸 Preview Screenshot
+![LeetMetric Screenshot](https://github.com/user-attachments/assets/ceb3cc9a-165d-4b05-bd42-97689ef66370)
 
 ## 📬 Connect with Me
 
